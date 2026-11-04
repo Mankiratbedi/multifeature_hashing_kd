@@ -32,6 +32,7 @@ The current implementation explores the following pipeline:
 7. **Retrieval:** Images are ranked using Hamming distance between binary codes.
 
 ## Architecture
+![Project Architecture](assets/architecture.png)
 
 ```mermaid
 flowchart TD
