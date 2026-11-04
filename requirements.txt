@@ -1,0 +1,22 @@
+# Core deep learning framework
+torch
+torchvision
+
+# Numerical computing
+numpy
+
+# Visualization
+matplotlib
+
+# Evaluation metrics and utilities
+scikit-learn
+
+# Progress bars for training
+tqdm
+
+# Image loading and processing
+Pillow
+
+# Optional: useful later for experiment tracking and configuration
+# tensorboard
+# pyyaml
