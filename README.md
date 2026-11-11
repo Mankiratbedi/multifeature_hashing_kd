@@ -231,3 +231,10 @@ Quantitative results will be added after completing and validating the experimen
 **Project:** Multi-Feature Hashing Guided Knowledge Distillation for Efficient Image Retrieval
 
 **Repository:** https://github.com/Mankiratbedi/multifeature_hashing_kd
+
+## Recent Progress
+
+- Implemented and evaluated multiple knowledge distillation approaches.
+- Improved similarity-based distillation using feature alignment and relational knowledge transfer.
+- Achieved a retrieval mAP of 0.5044 with the improved Similarity KD v2 student.
+- Evaluating binary hashing for efficient image retrieval.
